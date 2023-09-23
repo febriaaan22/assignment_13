@@ -9,9 +9,9 @@ interface DataType {
     is_active: string | number | boolean;
 }
 
-interface ApiResponse {
-    result: DataType[];
-}
+// interface ApiResponse {
+//     result: DataType[];
+// }
 
 const Dashboard: React.FC = () => {
     const apiUrl = "https://mock-api.arikmpt.com/api/category/";
