@@ -57,7 +57,7 @@ const RegisterForm: React.FC = () => {
 					title: "Registration Success",
 					text: "Registration Success",
 				});
-				navigate("/dashboard");
+				navigate("/");
 			})
 			.catch((error) => {
 				console.log(error);
