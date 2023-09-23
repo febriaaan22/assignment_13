@@ -26,7 +26,7 @@ Every page on this website have different purpose and each consist of different 
 ## DEPLOYMENT
 
 For this project I use Netlify to help me with this deployment. This is the best platform so far and its help alot of my project. Here is the link: 
-
+https://startling-puppy-0abd5c.netlify.app/dashboard
 
 
 ## Contact Me
